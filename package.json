@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "vitest --run -t"
+		"test": "vitest --run -t",
+		"test-all": "vitest --run"
 	},
 	"keywords": [],
 	"author": "",
