@@ -27,3 +27,4 @@ xxx 为单元测试名称
 | 2    | [合并两个有序数组](./02-merge-sorted-arr/index.ts)             | `双指针`        | `easy`   |
 | 3    | [字符串相加](./03-add-strings/index.ts)                        | `双指针` `模拟` | `easy`   |
 | 4    | [比较版本号](./04-compare-version/index.ts)                    | `字符串`        | `medium` |
+| 5    | [有效的括号](./05-is-valid-brackets/index.ts)                  | `栈`            | `easy`   |
