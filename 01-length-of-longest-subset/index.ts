@@ -7,11 +7,6 @@
  */
 
 /**
- * @param  s string
- * @returns number
- */
-
-/**
  * 解法一：滑动窗口（reduce累加器）
  * 思路：
  * （1）先判断字符串 s 的长度，如果 s.length <= 1 直接返回 s.length
@@ -19,6 +14,11 @@
  * （3）reduce 滑动窗口过程处理（详细过程看以下代码），返回最长子串的长度 maxLen
  * 时间复杂度：O(n)，n 代表字符串长度，reduce 会将字符串的每一个字符都遍历一遍
  * 空间复杂度：O(n)，n 代表字符串长度，将字符串转成了数组（额外空间）
+ */
+
+/**
+ * @param  s string
+ * @returns number
  */
 export function lengthOfLongestSubstringOne(s: string): number {
 	if (s.length <= 1) return s.length;

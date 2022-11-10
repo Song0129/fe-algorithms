@@ -7,19 +7,19 @@
  */
 
 /**
- * @param  {number[]} A 数组 A
- * @param  {number} m 数组 A 长度
- * @param  {number[]} B 数组 B
- * @param  {number} n 数组 B 长度
- */
-
-/**
  * 解法一：JS Sort
  * 思路：
  * （1）先判断 B 为空直接 return，A 为空则将 B shift 到 A 中
  * （2）将 B shift 填到 A 尾部的扩容区域，然后用 sort 排序
  * 时间复杂度：O(nlogn)， JS sort 方法基于快速排序实现
  * 空间复杂度：O(1)，常数级变量，无额外空间
+ */
+
+/**
+ * @param  {number[]} A 数组 A
+ * @param  {number} m 数组 A 长度
+ * @param  {number[]} B 数组 B
+ * @param  {number} n 数组 B 长度
  */
 export function mergeOne(A: number[], m: number, B: number[], n: number) {
 	if (!B.length || !n) return;

@@ -15,6 +15,12 @@
  * 时间复杂度：O(max(n, m))
  * 空间复杂度：O(max(n, m))
  */
+
+/**
+ * @param  {string} version1
+ * @param  {string} version2
+ * @returns number
+ */
 export function compareVersion(version1: string, version2: string): number {
 	const arr1: any[] = version1.split(".");
 	const arr2: any[] = version2.split(".");
