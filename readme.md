@@ -21,11 +21,12 @@ xxx 为单元测试名称
 
 ## 题目
 
-| 序号 | 题目名称                                                       | 考点            | 难度     |
-| ---- | -------------------------------------------------------------- | --------------- | -------- |
-| 1    | [无重复字符的最长子串](./01-length-of-longest-subset/index.ts) | `双指针` `哈希` | `medium` |
-| 2    | [合并两个有序数组](./02-merge-sorted-arr/index.ts)             | `双指针`        | `easy`   |
-| 3    | [字符串相加](./03-add-strings/index.ts)                        | `双指针` `模拟` | `easy`   |
-| 4    | [比较版本号](./04-compare-version/index.ts)                    | `字符串`        | `medium` |
-| 5    | [有效的括号](./05-is-valid-brackets/index.ts)                  | `栈`            | `easy`   |
-| 6    | [两数之和](./06-two-sum/index.ts)                              | `哈希`          | `easy`   |
+| 序号 | 题目名称                                                       | 考点              | 难度     |
+| ---- | -------------------------------------------------------------- | ----------------- | -------- |
+| 1    | [无重复字符的最长子串](./01-length-of-longest-subset/index.ts) | `双指针` `哈希`   | `medium` |
+| 2    | [合并两个有序数组](./02-merge-sorted-arr/index.ts)             | `双指针`          | `easy`   |
+| 3    | [字符串相加](./03-add-strings/index.ts)                        | `双指针` `模拟`   | `easy`   |
+| 4    | [比较版本号](./04-compare-version/index.ts)                    | `字符串`          | `medium` |
+| 5    | [有效的括号](./05-is-valid-brackets/index.ts)                  | `栈`              | `easy`   |
+| 6    | [两数之和](./06-two-sum/index.ts)                              | `哈希`            | `easy`   |
+| 7    | [爬楼梯](./07-climb-stairs/index.ts)                           | `递归` `动态规划` | `easy`   |
