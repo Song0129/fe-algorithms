@@ -31,3 +31,4 @@ xxx 为单元测试名称
 | 6    | [两数之和](./06-two-sum/index.ts)                              | `哈希`            | `easy`   |
 | 7    | [爬楼梯](./07-climb-stairs/index.ts)                           | `递归` `动态规划` | `easy`   |
 | 8    | [全排列](./08-permutations/index.ts)                           | `回溯` `递归`     | `medium` |
+| 9    | [最大子序和](./09-max-sub-array/index.ts)                      | `贪心` `动态规划` | `easy`   |
