@@ -33,3 +33,4 @@ xxx 为单元测试名称
 | 8    | [全排列](./08-permutations/index.ts)                           | `回溯` `递归`     | `medium` |
 | 9    | [最大子序和](./09-max-sub-array/index.ts)                      | `贪心` `动态规划` | `easy`   |
 | 10   | [路径总和](./10-reverse-linked-list/index.ts)                  | `递归` `DFS`      | `easy`   |
+| 11   | [反转链表](./11-path-sum/index.ts)                             | `链表` `递归`     | `easy`   |
